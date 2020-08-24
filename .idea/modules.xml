@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leaning-Data-structure-and-algorithm-atguigu.iml" filepath="$PROJECT_DIR$/leaning-Data-structure-and-algorithm-atguigu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1--p20/p1--p20.iml" filepath="$PROJECT_DIR$/p1--p20/p1--p20.iml" />
+    </modules>
+  </component>
+</project>
