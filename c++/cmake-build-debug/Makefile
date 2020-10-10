@@ -47,10 +47,10 @@ RM = "D:\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\code is here\c++"
+CMAKE_SOURCE_DIR = "D:\code is here\leaning-Data-structure-and-algorithm\c++"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\code is here\c++\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\code is here\leaning-Data-structure-and-algorithm\c++\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code is here\c++\cmake-build-debug\CMakeFiles" "D:\code is here\c++\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code is here\leaning-Data-structure-and-algorithm\c++\cmake-build-debug\CMakeFiles" "D:\code is here\leaning-Data-structure-and-algorithm\c++\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code is here\c++\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\code is here\leaning-Data-structure-and-algorithm\c++\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -121,6 +121,33 @@ c__: cmake_check_build_system
 c__/fast:
 	$(MAKE) -f CMakeFiles\c__.dir\build.make CMakeFiles/c__.dir/build
 .PHONY : c__/fast
+
+10101.obj: 10101.cpp.obj
+
+.PHONY : 10101.obj
+
+# target to build an object file
+10101.cpp.obj:
+	$(MAKE) -f CMakeFiles\c__.dir\build.make CMakeFiles/c__.dir/10101.cpp.obj
+.PHONY : 10101.cpp.obj
+
+10101.i: 10101.cpp.i
+
+.PHONY : 10101.i
+
+# target to preprocess a source file
+10101.cpp.i:
+	$(MAKE) -f CMakeFiles\c__.dir\build.make CMakeFiles/c__.dir/10101.cpp.i
+.PHONY : 10101.cpp.i
+
+10101.s: 10101.cpp.s
+
+.PHONY : 10101.s
+
+# target to generate assembly for a file
+10101.cpp.s:
+	$(MAKE) -f CMakeFiles\c__.dir\build.make CMakeFiles/c__.dir/10101.cpp.s
+.PHONY : 10101.cpp.s
 
 1091.obj: 1091.cpp.obj
 
@@ -293,6 +320,9 @@ help:
 	@echo ... edit_cache
 	@echo ... c__
 	@echo ... rebuild_cache
+	@echo ... 10101.obj
+	@echo ... 10101.i
+	@echo ... 10101.s
 	@echo ... 1091.obj
 	@echo ... 1091.i
 	@echo ... 1091.s

@@ -38,7 +38,7 @@ public:
 };
 
 
-int main() {
+int mainslft() {
     Person p1(123,"aaa");
     Person p2(1234,"bbb");
     cout<<p1<<endl;

@@ -4,12 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code is here/c++/1091.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/1091.cpp.obj"
-  "D:/code is here/c++/923.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/923.cpp.obj"
-  "D:/code is here/c++/9231.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/9231.cpp.obj"
-  "D:/code is here/c++/924.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/924.cpp.obj"
-  "D:/code is here/c++/data struct/BinaryTreeDemo.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/data_struct/BinaryTreeDemo.cpp.obj"
-  "D:/code is here/c++/self-made-operator-overload.cpp" "D:/code is here/c++/cmake-build-debug/CMakeFiles/c__.dir/self-made-operator-overload.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/10101.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/10101.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/1091.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/1091.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/923.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/923.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/9231.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/9231.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/924.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/924.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/data struct/BinaryTreeDemo.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/data_struct/BinaryTreeDemo.cpp.obj"
+  "D:/code is here/leaning-Data-structure-and-algorithm/c++/self-made-operator-overload.cpp" "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/CMakeFiles/c__.dir/self-made-operator-overload.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

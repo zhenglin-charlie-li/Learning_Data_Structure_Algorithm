@@ -1,4 +1,4 @@
-# Install script for directory: D:/code is here/c++
+# Install script for directory: D:/code is here/leaning-Data-structure-and-algorithm/c++
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/code is here/c++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/code is here/leaning-Data-structure-and-algorithm/c++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
