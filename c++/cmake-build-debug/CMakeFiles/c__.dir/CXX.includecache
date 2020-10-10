@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code is here/c++/self-made-operator-overload.cpp
+iostream
+D:/code is here/c++/iostream
+cstring
+D:/code is here/c++/cstring
+
