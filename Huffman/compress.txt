@@ -1,0 +1,149 @@
+CHAPTER Iclion如何单步调试? - 知乎
+         2018年6月11日 clion如何单步调试? c语言,网上查了好多都不太详细,求大神指点,我点了debug以后底下出现了一个窗口,然后我就不知道如何操作了,我们教学用的是vc,里面...
+         知乎
+         
+         百度快照
+         其他人还在搜
+         clion如何编译和运行clion使用教程clion debug撤销返回上一步快捷键excel怎么返回上一步clion调试clion怎么debugclion添加监控变量clion的使用clion怎么使用
+         clion中如何调试,让程序一步一步执行? - 百度知道
+         2019年4月19日 回答：JetBrains家IDE通用调试方法: 1. 打断点,在你想要停下的行的header位置点击一下鼠标左键,会出现一个红色的圆形断点图标 2.点击工具栏的小虫子图...
+         百度知道
+         
+         百度快照
+         在CLion 中进行调试 | JetBrains Blog
+
+         2019年5月14日 使用IDE 而不是纯文本编辑器的关键优势之一在于调试体验。 调试涉及能够在任意点暂停程序执行并且能够检查变量的内容。 CLion 支持使用 GDB 调试器(从1.1 版起在...
+         blog.jetbrains.com/zh-hans/201...
+         
+         百度快照
+         CLion断点单步调试_Maccy37的博客-CSDN博客
+
+         2020年9月1日 参考CLion官网:https://www.jetbrains.com/help/clion/2020.2/clion-quick-start-guide.html#debugging Debug:调试 一.调试 二.单点调试 ...
+         CSDN技术社区
+         
+         百度快照
+         clion如何进行调试? - 知乎
+         2017年6月1日 clion如何进行调试?关注者65 被浏览20,227 关注问题?写回答 ?邀请回答 ?好问题 ?添加评论 ?分享 ?4 个回答 默认排序蓝色...
+         知乎
+         
+         百度快照
+         使用Clion调试C++工程 - 简书
+         2018年7月27日 使用Clion调试C++工程 安装 Clion属于jetbrains公司,他们家的IDE一般都比较强大,像专门写python的PyCharm,写java的Intellij I...
+         简书社区
+         
+         百度快照
+         clion-debug调试步骤 - it610.com
+
+         2020年8月11日 debug步: 1. 打断点 点击左侧会出现一个红点 由于clion比较智能,断点大致在那么范围就可以了。 2.点击debug 3.输入数据 4.下一条指令 ...
+         www.it610.com/article/12931641...
+         
+         百度快照
+         clion 单步调试 - 程序园
+         2017年6月26日 django单步调试 clion eclipse单步调试调试eclipse CLion Clion CLion C++ clion 单调 单单单单单调栈 单调队列||单调栈 单调栈单调队列 单调栈&&单调...
+         www.voidcn.com/search/omp...
+         
+         百度快照
+         相关搜索
+"WELL," said Comyns, “I can’t see for the life of me what makes you want to linger on in this benighted hole.”
+
+“There are a great many things in this world we can’t see,” replied Hellier.
+
+They were standing on the pier at Boulogne, the Folkstone boat was just departing, the east wind was blowing, and over the cold, early spring day the clouds drifted, grey as the cygnet’s feather.
+
+Without wishing to paraphrase or parody a famous author, one may say that if one goes over to Boulogne and stands long enough on the pier, one will meet, most possibly, someone one knows—probably one’s tailor.
+
+Hellier had come over to Boulogne a fortnight ago to recruit from an attack of influenza; he was a briefless barrister, with two hundred and fifty pounds a year of his own; his chambers were in Clifford’s Inn, and he had a taste for that side of life which lends itself to romantic literature.
+
+The novels of Gaboriau, absorbed as a boy, had given him his first impetus towards the law.
+
+There is no manner of doubt in the world that housebreaking is the most romantic of the professions; after housebreaking, the profession that helps the housebreaker to escape the law.
+
+A great criminal lawyer, with his armful of briefs, was the pictured objective towards which Richard Hellier had set his face; he had been called to the Bar eighteen months now, and his only client up to this had been a dog thief (item, convicted).
+
+“I suppose there are,” replied Comyns, “but there’s one thing I can, the gangway is going, so long—”
+
+He dashed down the gangway, the hawsers were cast off, and the screw churned the steel grey waters of the harbour.
+
+Hellier stood with his hands in his overcoat pockets, watching the boat as she passed from sight, and wishing that he was Comyns.
+
+Comyns was handsome, Comyns was wealthy. His father made bicycle lamps and motor horns in Wolverhampton, his grandfather had been a platelayer. He belonged to one of those families that go up in the world. Hellier belonged to one of the families that go down. When Comyns’ grandfather had been laying plate, Hellier’s had been eating off it. But the plate of the Helliers’ had vanished as utterly as their past, and of all the story there remained a single punch ladle, a speechless, yet eloquent witness, to tell of the good times gone.
+
+Hellier was a middle-sized man, and plain. Dark, clean-shaved, pre-eminently a gentleman. Just as a rose is a rose, or a pansy a pansy.
+
+Let the handsome and superficial Comyns walk with him down the street, and out of a hundred and one women a hundred would have looked with appreciation on the motor horn merchant’s son, but the hundred and first would have looked with interest at Hellier.
+
+He turned from contemplation of the harbour and came back down the pier slowly, breathing the keen east wind and wishing he was Comyns.
+
+He was in love for the first time in his life, and he was taking it badly. He was only thirty-three years of age, yet he was already summing up his life, looking back at his past, telling himself that had he not fooled away his time in the by-ways of literature and stuck to the hard high road of life, he might now have been well-to-do, like Comyns.
+
+It is only when a man is really in love that he sees the defects in himself and his position, sees them with a preternatural and startling vividness—if he is a man.
+
+So Hellier wished he was Comyns, utterly ignorant of the fact that if some magician had converted him into the object of his admiration, the woman he loved would not have looked at him twice.
+
+He had only known her ten days. Her name was Mademoiselle Cécile Lefarge, he had met her accidently at the Hotel des Bains, and had fallen in love with her on sight.
+
+When a man falls in love with a woman on sight, it is through his desires that love comes to him. Her body takes possession of his mind. This kind of love may fade away or endure for ever; as a rule it is unfortunate, and fades; sometimes it becomes converted into hatred, when the lover, after marriage, has discovered how the flesh has betrayed him, what a base soul beauty has palmed off on him, wrapped in an attractive wrapper.
+
+A bad bargain in love. Those five words contain in them the plot and essence of most of the tragedies in life.
+
+Cécile Lefarge was twenty-eight, and looked, perhaps, twenty-six. Pale, of medium height, voluptuously formed, dark, with blindish-looking violet grey eyes, serious-looking as a priestess of Aphrodite, yet with a nun-like spirituality, she was a woman to drive a sensualist mad with desire, a woman to inspire the dreams of a poet or a saint.
+
+This was the woman who had captured Hellier, heart, soul and body; and the poignant, the terrible thing in his case, was the fact that he knew his passion was partly returned, that he had awakened in this being, that chance had caused to stray across his life, that something, that magnetic response, that deep, vague interest, which in a woman’s mind marks the beginning of love. That he had done this, but yet that something stood in the way.
+
+The girl was staying at the Hotel des Bains with her aunt, Madame de Warens, a pale-faced, mild and most practicable old lady.
+
+They had a suite of rooms, and were evidently very well-to-do people in a worldly way. They had lived at the hotel for three years, they had no relations in the visible universe, and what friendships they made were chance friendships.
+
+Hellier had not done badly, for he had gained the confidence of old Madame de Warens, as well as the attention of her niece, and it was mainly from the old lady’s rambling conversations that he had gained his knowledge of their habits and their past. Also the hint of some mysterious cloud in that past, whose shadow still hung over them, some barrier that fate had slidden between them and society, causing them to lead this aimless hotel life, divorced from friends and relations.
+CHAPTER I
+“WELL,” said Comyns, “I can’t see for the life of me what makes you want to linger on in this benighted hole.”
+
+“There are a great many things in this world we can’t see,” replied Hellier.
+
+They were standing on the pier at Boulogne, the Folkstone boat was just departing, the east wind was blowing, and over the cold, early spring day the clouds drifted, grey as the cygnet’s feather.
+
+Without wishing to paraphrase or parody a famous author, one may say that if one goes over to Boulogne and stands long enough on the pier, one will meet, most possibly, someone one knows—probably one’s tailor.
+
+Hellier had come over to Boulogne a fortnight ago to recruit from an attack of influenza; he was a briefless barrister, with two hundred and fifty pounds a year of his own; his chambers were in Clifford’s Inn, and he had a taste for that side of life which lends itself to romantic literature.
+
+The novels of Gaboriau, absorbed as a boy, had given him his first impetus towards the law.
+
+There is no manner of doubt in the world that housebreaking is the most romantic of the professions; after housebreaking, the profession that helps the housebreaker to escape the law.
+
+A great criminal lawyer, with his armful of briefs, was the pictured objective towards which Richard Hellier had set his face; he had been called to the Bar eighteen months now, and his only client up to this had been a dog thief (item, convicted).
+
+“I suppose there are,” replied Comyns, “but there’s one thing I can, the gangway is going, so long—”
+
+He dashed down the gangway, the hawsers were cast off, and the screw churned the steel grey waters of the harbour.
+
+Hellier stood with his hands in his overcoat pockets, watching the boat as she passed from sight, and wishing that he was Comyns.
+
+Comyns was handsome, Comyns was wealthy. His father made bicycle lamps and motor horns in Wolverhampton, his grandfather had been a platelayer. He belonged to one of those families that go up in the world. Hellier belonged to one of the families that go down. When Comyns’ grandfather had been laying plate, Hellier’s had been eating off it. But the plate of the Helliers’ had vanished as utterly as their past, and of all the story there remained a single punch ladle, a speechless, yet eloquent witness, to tell of the good times gone.
+
+Hellier was a middle-sized man, and plain. Dark, clean-shaved, pre-eminently a gentleman. Just as a rose is a rose, or a pansy a pansy.
+
+Let the handsome and superficial Comyns walk with him down the street, and out of a hundred and one women a hundred would have looked with appreciation on the motor horn merchant’s son, but the hundred and first would have looked with interest at Hellier.
+
+He turned from contemplation of the harbour and came back down the pier slowly, breathing the keen east wind and wishing he was Comyns.
+
+He was in love for the first time in his life, and he was taking it badly. He was only thirty-three years of age, yet he was already summing up his life, looking back at his past, telling himself that had he not fooled away his time in the by-ways of literature and stuck to the hard high road of life, he might now have been well-to-do, like Comyns.
+
+It is only when a man is really in love that he sees the defects in himself and his position, sees them with a preternatural and startling vividness—if he is a man.
+
+So Hellier wished he was Comyns, utterly ignorant of the fact that if some magician had converted him into the object of his admiration, the woman he loved would not have looked at him twice.
+
+He had only known her ten days. Her name was Mademoiselle Cécile Lefarge, he had met her accidently at the Hotel des Bains, and had fallen in love with her on sight.
+
+When a man falls in love with a woman on sight, it is through his desires that love comes to him. Her body takes possession of his mind. This kind of love may fade away or endure for ever; as a rule it is unfortunate, and fades; sometimes it becomes converted into hatred, when the lover, after marriage, has discovered how the flesh has betrayed him, what a base soul beauty has palmed off on him, wrapped in an attractive wrapper.
+
+A bad bargain in love. Those five words contain in them the plot and essence of most of the tragedies in life.
+
+Cécile Lefarge was twenty-eight, and looked, perhaps, twenty-six. Pale, of medium height, voluptuously formed, dark, with blindish-looking violet grey eyes, serious-looking as a priestess of Aphrodite, yet with a nun-like spirituality, she was a woman to drive a sensualist mad with desire, a woman to inspire the dreams of a poet or a saint.
+
+This was the woman who had captured Hellier, heart, soul and body; and the poignant, the terrible thing in his case, was the fact that he knew his passion was partly returned, that he had awakened in this being, that chance had caused to stray across his life, that something, that magnetic response, that deep, vague interest, which in a woman’s mind marks the beginning of love. That he had done this, but yet that something stood in the way.
+
+The girl was staying at the Hotel des Bains with her aunt, Madame de Warens, a pale-faced, mild and most practicable old lady.
+
+They had a suite of rooms, and were evidently very well-to-do people in a worldly way. They had lived at the hotel for three years, they had no relations in the visible universe, and what friendships they made were chance friendships.
+
+Hellier had not done badly, for he had gained the confidence of old Madame de Warens, as well as the attention of her niece, and it was mainly from the old lady’s rambling conversations that he had gained his knowledge of their habits and their past. Also the hint of some mysterious cloud in that past, whose shadow still hung over them, some barrier that fate had slidden between them and society, causing them to lead this aimless hotel life, divorced from friends and relations.
